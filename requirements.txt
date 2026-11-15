@@ -1,0 +1,4 @@
+playwright>=1.40
+websockets>=12.0
+requests>=2.31
+websocket-client>=1.7

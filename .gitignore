@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/*.jsonl
+login_state.json
+cookies.txt
+.DS_Store
